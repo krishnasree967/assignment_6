@@ -1,0 +1,25 @@
+{
+    "employees": [
+      {
+        "name": "virat",
+        "dob": "05-11-1988",
+        "height": 5.9,
+        "city": "Delhi",
+        "state": "Delhi"
+      },
+      {
+        "name": "kl rahul",
+        "dob": "18-04-1992",
+        "height": 5.5,
+        "city": "Bangalore",
+        "state": "Karnakata"
+      },
+      {
+        "name": "surya kumar",
+        "dob":"14-09-1990",
+        "height": 5.1,
+        "city": "Bombay",
+        "state": "Maharashtra"
+      }
+    ]
+  }
